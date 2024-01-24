@@ -14,5 +14,5 @@ A bit similar to a QR code but not a QR code, a maze solver! <br><br>
 You can set the size of the grid you want via the macros defined, <br>
 to run: <br> 
 1. ```make``` (make sure you have make installed) <br>
-2. ```./targets/main``` <br><br>
+2. ```./target/main``` <br><br>
 Dependecies: SDL2, mingw
